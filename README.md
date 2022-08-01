@@ -1,7 +1,7 @@
 - 👋 Hi, I’m steve meng
 - 👀 I’m interested in Code
-- 🌱 I’m currently learning C# & Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Now learning C# & Python
+- 💞️ looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
